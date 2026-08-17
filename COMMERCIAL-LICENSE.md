@@ -1,8 +1,8 @@
 # nws Commercial License Terms
 
 > **This document is a template.** It describes the commercial licensing
-> model for nws. It is not legal advice; have a lawyer review it before you
-> take anyone's money.
+> model for nws. It is not established yet.
+> I won't take anyone's money before thorough review.
 
 nws is published under the GNU Affero General Public License v3
 (`AGPL-3.0-or-later`, see `LICENSE`). AGPL is free for everyone, but it has
