@@ -1,0 +1,24 @@
+nws — article extraction engine
+Copyright (C) 2026 nws contributors
+
+This product includes software developed by, and derived from, the following
+upstream projects (used as reference implementations for the algorithm ports;
+see THIRD_PARTY_LICENSES for their full license texts):
+
+  * mozilla/readability
+    https://github.com/mozilla/readability
+    Copyright (c) 2010 Arc90 Inc; Copyright Mozilla Foundation and contributors
+    Licensed under the Apache License 2.0
+    — the content-scoring and cleaning algorithm.
+
+  * postlight/parser (Mercury Parser)
+    https://github.com/postlight/parser
+    Copyright (c) Postlight
+    Licensed under the Apache License 2.0
+    — metadata extraction strategy (authors, dates, lead image).
+
+  * codelucas/newspaper (newspaper3k)
+    https://github.com/codelucas/newspaper
+    Copyright (c) 2013 Lucas Ou-Yang
+    Licensed under the MIT License
+    — title/author/date heuristics and API surface.
